@@ -12,6 +12,8 @@
 Legenda:
 
 📝 - Em desenvolvimento
+
 ❌ - Incompleto/Concluindo
+
 ✔️ - Concluído
 
